@@ -1,0 +1,9 @@
+{
+  "artifact": "assets/core.bin",
+  "expires": 1792510093,
+  "sha256": "e9d01bd9e809893e418017a359466a0dbc8815f7345e68cbf1bb9dac7a9dcc71",
+  "signature": "BtuW8g+DzM4VbseJVw6m8h0/NeHXEvbB5k8OfC8+YkIsaJ9rZzL+cRWF50y/QEEDhm1SrFtS7oXTy4EQPbrqDw==",
+  "signed_payload": "{\"artifact\":\"assets/core.bin\",\"expires\":1792510093,\"min_loader_version\":\"4.2\",\"sha256\":\"e9d01bd9e809893e418017a359466a0dbc8815f7345e68cbf1bb9dac7a9dcc71\",\"size\":28559437,\"version\":\"4.2\"}",
+  "size": 28559437,
+  "version": "4.2"
+}
