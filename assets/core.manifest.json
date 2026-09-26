@@ -1,9 +1,9 @@
 {
   "artifact": "assets/core.bin",
-  "expires": 1792510093,
-  "sha256": "e9d01bd9e809893e418017a359466a0dbc8815f7345e68cbf1bb9dac7a9dcc71",
-  "signature": "BtuW8g+DzM4VbseJVw6m8h0/NeHXEvbB5k8OfC8+YkIsaJ9rZzL+cRWF50y/QEEDhm1SrFtS7oXTy4EQPbrqDw==",
-  "signed_payload": "{\"artifact\":\"assets/core.bin\",\"expires\":1792510093,\"min_loader_version\":\"4.2\",\"sha256\":\"e9d01bd9e809893e418017a359466a0dbc8815f7345e68cbf1bb9dac7a9dcc71\",\"size\":28559437,\"version\":\"4.2\"}",
-  "size": 28559437,
-  "version": "4.2"
+  "expires": 1793036501,
+  "sha256": "1b9adb3831ab4baf9bd454c24b4468b29353aa9ec4fc6138dfd04fd044dc3d94",
+  "signature": "NQ689YmXiBBM5odcm+8fT/AM/BHyvUiKD0edS1bT3cku9cDbjw4fcTMMWYwKYQU3DCIBtCJ8v/Wy50kpSdAXDw==",
+  "signed_payload": "{\"artifact\":\"assets/core.bin\",\"expires\":1793036501,\"min_loader_version\":\"4.5\",\"sha256\":\"1b9adb3831ab4baf9bd454c24b4468b29353aa9ec4fc6138dfd04fd044dc3d94\",\"size\":33319092,\"version\":\"4.5\"}",
+  "size": 33319092,
+  "version": "4.5"
 }
