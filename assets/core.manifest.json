@@ -1,9 +1,9 @@
 {
   "artifact": "assets/core.bin",
-  "expires": 1793566461,
-  "sha256": "4c8ac537557f8f414308848e516f6d416fb95f8bf4777a3b8e6e5ef8b40fa836",
-  "signature": "Pg7H/AVWR8tMakmVOjlqGFMJ9Mp3Npnxjvsg+zTal6vwg4g8F3at/a59RGPpbweARdWnTZ4SKbcKSCs+S9dqAw==",
-  "signed_payload": "{\"artifact\":\"assets/core.bin\",\"expires\":1793566461,\"min_loader_version\":\"4.9\",\"sha256\":\"4c8ac537557f8f414308848e516f6d416fb95f8bf4777a3b8e6e5ef8b40fa836\",\"size\":35113995,\"version\":\"4.9\"}",
-  "size": 35113995,
+  "expires": 1793584224,
+  "sha256": "6a2c0e0cca7a2e2a1869b98c56fd25ce3af157fc07a0227ce6469ec12a835f79",
+  "signature": "HhYsdv4+0bjnYPdvEQdXV3a+HQZN+69Qf5EE/wAl7gI0TRyfA61qiix4M+yUTOV6mdgrMjsa8knVxlRep+yOBw==",
+  "signed_payload": "{\"artifact\":\"assets/core.bin\",\"expires\":1793584224,\"min_loader_version\":\"4.9\",\"sha256\":\"6a2c0e0cca7a2e2a1869b98c56fd25ce3af157fc07a0227ce6469ec12a835f79\",\"size\":29581878,\"version\":\"4.9\"}",
+  "size": 29581878,
   "version": "4.9"
 }
