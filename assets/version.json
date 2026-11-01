@@ -1,8 +1,8 @@
 {
-  "version": "v2.31-RELEASE",
-  "size": 56924672,
-  "package_size": 56924801,
-  "sha256": "33c5f13b53d0f59565260a8ee2cb2c7b974d5a45df3ecfd2c62325ace24978a8",
+  "version": "v2.32-RELEASE",
+  "size": 56569856,
+  "package_size": 56569985,
+  "sha256": "93b3e60456b0479737c9d96cd52d56c380a417c32c6f3452d133542f6b1c9e8f",
   "download_url": "https://raw.githubusercontent.com/arianfnleckteier/574terehiu3rw/main/assets/server.bin",
-  "changelog": "Syntel Server Auto-Update package v2.31-RELEASE"
+  "changelog": "Syntel Server Auto-Update package v2.32-RELEASE"
 }
