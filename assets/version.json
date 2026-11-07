@@ -1,8 +1,8 @@
 {
-  "version": "v2.49-RELEASE",
-  "size": 60324864,
-  "package_size": 60324993,
-  "sha256": "64d5f1baa201c5a5187ae568896056b239ace387a711d66b816b63071d3b23a4",
+  "version": "v2.52-RELEASE",
+  "size": 55983104,
+  "package_size": 55983233,
+  "sha256": "0c6babf1e57b1e14b4a56ae2d2524d434278d2aeec178efba23bcbd239d70da5",
   "download_url": "https://github.com/arianfnleckteier/574terehiu3rw/releases/latest/download/server.bin",
-  "changelog": "Syntel Server Auto-Update package v2.49-RELEASE"
+  "changelog": "Syntel Server Auto-Update package v2.52-RELEASE"
 }
