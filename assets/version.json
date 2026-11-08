@@ -1,9 +1,9 @@
 {
-  "version": "2.55",
-  "size": 72033280,
-  "package_size": 72033400,
-  "sha256": "860eeb082a0b6adcaf4b950d40001b5879e40c22aa16ee8e83ea1ccdad940155",
+  "version": "2.56",
+  "size": 69039616,
+  "package_size": 69039736,
+  "sha256": "db33b398783f1a0a8c448a8b5d1bee03e4da99c55b557d40c44248f03142cea9",
   "download_url": "https://github.com/arianfnleckteier/574terehiu3rw/releases/latest/download/server.bin",
   "raw_download_url": "https://raw.githubusercontent.com/arianfnleckteier/574terehiu3rw/main/assets/server.bin",
-  "changelog": "Syntel Server Auto-Update package 2.55 (VMProtected)"
+  "changelog": "Syntel Server Auto-Update package 2.56 (VMProtected)"
 }
